@@ -1,5 +1,5 @@
 # Torguard-Autoswitch
-This program automates the switching of torguard.This is only necessary if you do not trust the country trade or think that it is not safe.
+This program automates the switching of guard in browser "Tor".This is only necessary if you do not trust the country trade or think that it is not safe.
 # How to use
 [Download for Windows](https://github.com/loci456/Torguard-Autoswitch/releases/download/1/TSG.exe)
 
